@@ -1,0 +1,25 @@
+[Settings]
+##base_folder =  H:\Repos\Projects\GoodJob\AmaIA\ICAP\src
+exclude_folders =
+    .git
+    node_modules
+    .next
+    dist
+    app
+    audios
+    .next
+exclude_files =
+    node_modules
+    api.ts
+    *.js
+    *.txt
+    *.delete
+    *.log
+    *.ico
+    *.py
+    *.tmp
+    pack*
+exclude_files_ignored_by_git = True
+output_as_directory_with_content = False
+AddFullPath =True
+exclude_swagger_annotations = True
